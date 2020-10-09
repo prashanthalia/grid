@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "make": "pulser",
+      "model": "150",
+      "price":30000
+    },
+    {
+      "id": 2,
+      "make": "pulser",
+      "model": "180",
+      "price":35000
+
+    },
+    {"id": 3,
+    "make": "Royal Enfield",
+    "model": "007",
+    "price":45000
+    },
+    {
+      "id": 4,
+      "make": "duke",
+      "model": "100",
+      "price":550000
+    },
+    {
+      "id":5,
+      "make": "FZ",
+      "model": "101",
+      "price":600000
+    }
+  ]
+  
+}
